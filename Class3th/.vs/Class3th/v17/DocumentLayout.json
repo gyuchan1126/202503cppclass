@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Class3th\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C871C90A-179D-42F5-8F70-7FB4DEA5A47C}|Class02th\\Class02th.vcxproj|C:\\Users\\admin\\source\\repos\\Class3th\\Class02th\\class02th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C871C90A-179D-42F5-8F70-7FB4DEA5A47C}|Class02th\\Class02th.vcxproj|solutionrelative:Class02th\\class02th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81D4E4F-BA29-44B7-B485-4AAB43439872}|Class3th\\Class3th.vcxproj|C:\\Users\\admin\\source\\repos\\Class3th\\Class3th\\Class01th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A81D4E4F-BA29-44B7-B485-4AAB43439872}|Class3th\\Class3th.vcxproj|solutionrelative:Class3th\\Class01th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "class02th.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Class3th\\Class02th\\class02th.cpp",
+              "RelativeDocumentMoniker": "Class02th\\class02th.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Class3th\\Class02th\\class02th.cpp",
+              "RelativeToolTip": "Class02th\\class02th.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-11T09:09:43.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class01th.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Class3th\\Class3th\\Class01th.cpp",
+              "RelativeDocumentMoniker": "Class3th\\Class01th.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Class3th\\Class3th\\Class01th.cpp",
+              "RelativeToolTip": "Class3th\\Class01th.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-11T09:09:18.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
