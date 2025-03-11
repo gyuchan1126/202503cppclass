@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\GitHub\\202503cppclass\\Class3th\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9D826DEF-C5D1-4379-A8DF-175373815A02}|Class03th\\Class03th.vcxproj|C:\\Users\\admin\\Documents\\GitHub\\202503cppclass\\Class3th\\Class03th\\03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D826DEF-C5D1-4379-A8DF-175373815A02}|Class03th\\Class03th.vcxproj|solutionrelative:Class03th\\03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C871C90A-179D-42F5-8F70-7FB4DEA5A47C}|Class02th\\Class02th.vcxproj|C:\\Users\\admin\\Documents\\GitHub\\202503cppclass\\Class3th\\Class02th\\class02th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C871C90A-179D-42F5-8F70-7FB4DEA5A47C}|Class02th\\Class02th.vcxproj|solutionrelative:Class02th\\class02th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "03.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\202503cppclass\\Class3th\\Class03th\\03.cpp",
+              "RelativeDocumentMoniker": "Class03th\\03.cpp",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\202503cppclass\\Class3th\\Class03th\\03.cpp",
+              "RelativeToolTip": "Class03th\\03.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-11T09:32:19.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "class02th.cpp",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\202503cppclass\\Class3th\\Class02th\\class02th.cpp",
               "RelativeDocumentMoniker": "Class02th\\class02th.cpp",
               "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\202503cppclass\\Class3th\\Class02th\\class02th.cpp",
               "RelativeToolTip": "Class02th\\class02th.cpp",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-11T09:09:43.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Class01th.cpp",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\202503cppclass\\Class3th\\Class3th\\Class01th.cpp",
               "RelativeDocumentMoniker": "Class3th\\Class01th.cpp",
