@@ -7,16 +7,7 @@
       "RelativeMoniker": "D:0:0:{1678D3CC-DF7B-4070-87C9-185FB95FACC1}|Class04th\\Class04th.vcxproj|solutionrelative:Class04th\\04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D826DEF-C5D1-4379-A8DF-175373815A02}|Class03th\\Class03th.vcxproj|C:\\Users\\admin\\Documents\\GitHub\\202503cppclass\\Class3th\\Class03th\\03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9D826DEF-C5D1-4379-A8DF-175373815A02}|Class03th\\Class03th.vcxproj|solutionrelative:Class03th\\03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A81D4E4F-BA29-44B7-B485-4AAB43439872}|Class3th\\Class3th.vcxproj|C:\\Users\\admin\\Documents\\GitHub\\202503cppclass\\Class3th\\Class3th\\Class01th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A81D4E4F-BA29-44B7-B485-4AAB43439872}|Class3th\\Class3th.vcxproj|solutionrelative:Class3th\\Class01th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C871C90A-179D-42F5-8F70-7FB4DEA5A47C}|Class02th\\Class02th.vcxproj|C:\\Users\\admin\\Documents\\GitHub\\202503cppclass\\Class3th\\Class02th\\class02th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C871C90A-179D-42F5-8F70-7FB4DEA5A47C}|Class02th\\Class02th.vcxproj|solutionrelative:Class02th\\class02th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +17,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ViewState": "AgIAAIsCAAAAAAAAAAAhwLUDAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T13:34:46.778Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,48 +39,9 @@
               "RelativeDocumentMoniker": "Class04th\\04.cpp",
               "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\202503cppclass\\Class3th\\Class04th\\04.cpp",
               "RelativeToolTip": "Class04th\\04.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-12T12:00:55.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "03.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\202503cppclass\\Class3th\\Class03th\\03.cpp",
-              "RelativeDocumentMoniker": "Class03th\\03.cpp",
-              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\202503cppclass\\Class3th\\Class03th\\03.cpp",
-              "RelativeToolTip": "Class03th\\03.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-11T09:32:19.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "class02th.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\202503cppclass\\Class3th\\Class02th\\class02th.cpp",
-              "RelativeDocumentMoniker": "Class02th\\class02th.cpp",
-              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\202503cppclass\\Class3th\\Class02th\\class02th.cpp",
-              "RelativeToolTip": "Class02th\\class02th.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-11T09:09:43.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class01th.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\202503cppclass\\Class3th\\Class3th\\Class01th.cpp",
-              "RelativeDocumentMoniker": "Class3th\\Class01th.cpp",
-              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\202503cppclass\\Class3th\\Class3th\\Class01th.cpp",
-              "RelativeToolTip": "Class3th\\Class01th.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-11T09:09:18.915Z",
+              "WhenOpened": "2025-03-14T13:07:40.99Z",
               "EditorCaption": ""
             }
           ]

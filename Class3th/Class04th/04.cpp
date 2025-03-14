@@ -1,15 +1,12 @@
 #include <stdio.h>
 int main() {
-	for (int i = 0; i <= 5; i++) 
-	{
-		for(int j = 0; j <= 5; j++) 
-		{
-			printf("%d * %d = %d\n", i, j, i * j);
+	for (int i = 0; i <= 10; i++){
+		for (int j = 0; j <= 10; j++)
+		{ 
+			printf("%d*%d=%d\t", i, j, i * j);
 		}
+		printf("\n");
 	}
-
-
-
 	return 0;
 }
 
